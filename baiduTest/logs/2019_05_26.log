@@ -1,0 +1,4 @@
+[2019-05-26 21:26:15,400] - log.py[line:33] - fuc:__console- INFO: 这是日志开始哦
+[2019-05-26 21:27:04,163] - log.py[line:33] - fuc:__console- INFO: 第一条用例开始执行
+[2019-05-26 21:33:49,450] - log.py[line:33] - fuc:__console- INFO: 这是日志开始哦
+[2019-05-26 21:33:57,050] - log.py[line:33] - fuc:__console- INFO: 第一条用例开始执行

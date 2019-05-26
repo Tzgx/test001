@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (baiduTest)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fide_testproject" />
+    <orderEntry type="module" module-name="kyb_test" />
+    <orderEntry type="module" module-name="jiekou" />
+    <orderEntry type="module" module-name="zendao" />
+    <orderEntry type="module" module-name="pytest_sele_zentao" />
+    <orderEntry type="module" module-name="baidu_test" />
+    <orderEntry type="module" module-name="test_kybb" />
+    <orderEntry type="module" module-name="web_test" />
+    <orderEntry type="module" module-name="chandao" />
+    <orderEntry type="module" module-name="project" />
+    <orderEntry type="module" module-name="appium_test" />
+    <orderEntry type="module" module-name="app_Test" />
+    <orderEntry type="module" module-name="webTest" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

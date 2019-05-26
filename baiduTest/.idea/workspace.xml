@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/driver/driver1.py" line="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="511f1317-48f6-4dfa-83d0-36144ebe09c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../baidu_test/base/basetest.py" />
+        <option value="$PROJECT_DIR$/../baidu_test/runner.py" />
+        <option value="$PROJECT_DIR$/../baidu_test/common/myunit.py" />
+        <option value="$PROJECT_DIR$/../baidu_test/test_case/test_login.py" />
+        <option value="$PROJECT_DIR$/../test_kybb/conf/desired_caps.yaml" />
+        <option value="$PROJECT_DIR$/../test_kybb/base/base.py" />
+        <option value="$PROJECT_DIR$/../kyb_test/common/desired_caps.py" />
+        <option value="$PROJECT_DIR$/../kyb_test/common/comm.py" />
+        <option value="$PROJECT_DIR$/../test_kybb/common/comm.py" />
+        <option value="$PROJECT_DIR$/../test_kybb/base/base1.py" />
+        <option value="$PROJECT_DIR$/../zendao/test_001.py" />
+        <option value="D:/project/web_test/conftest.py" />
+        <option value="$PROJECT_DIR$/../chandao/base/base1.py" />
+        <option value="$PROJECT_DIR$/../chandao/page/login.py" />
+        <option value="$PROJECT_DIR$/../zendao/test_case.py" />
+        <option value="$USER_HOME$/Desktop/baiduTest/baiduTest/logs/log.py" />
+        <option value="D:/project/web_test/WebLogin/Login.py" />
+        <option value="$PROJECT_DIR$/common/excel_shizhan.py" />
+        <option value="$PROJECT_DIR$/common/read_excel.py" />
+        <option value="$PROJECT_DIR$/common/ddt_test.py" />
+        <option value="$PROJECT_DIR$/common/myTest.py" />
+        <option value="$PROJECT_DIR$/function/image.py" />
+        <option value="$PROJECT_DIR$/driver/driver1.py" />
+        <option value="$PROJECT_DIR$/common/excel1.py" />
+        <option value="$PROJECT_DIR$/page/login.py" />
+        <option value="$PROJECT_DIR$/logs/log.py" />
+        <option value="D:/project/web_test/test_login.py" />
+        <option value="$PROJECT_DIR$/test_case/testLoginCase.py" />
+        <option value="$PROJECT_DIR$/common/base.py" />
+        <option value="D:/project/web_test/common/base.py" />
+        <option value="D:/project/web_test/pages/login.py" />
+        <option value="D:/project/web_test/pages/loginPage.py" />
+        <option value="D:/project/web_test/common/Myunit.py" />
+        <option value="D:/project/web_test/testCase/testCaseLogin.py" />
+        <option value="D:/project/web_test/common/myunit.py" />
+        <option value="D:/project/web_test/common/driver.py" />
+        <option value="D:/project/web_test/runner.py" />
+        <option value="D:/project/web_test/test.py" />
+        <option value="$USER_HOME$/app_Test/data.yaml" />
+        <option value="$USER_HOME$/app_Test/driver/browser.py" />
+        <option value="$USER_HOME$/app_Test/baseView/desired_caps.py" />
+        <option value="$USER_HOME$/app_Test/baseView/base.py" />
+        <option value="$PROJECT_DIR$/../webTest/common/baseView.py" />
+        <option value="$USER_HOME$/app_Test/runner.py" />
+        <option value="$PROJECT_DIR$/webTest/common/myunit.py" />
+        <option value="$PROJECT_DIR$/webTest/baseView/base.py" />
+        <option value="$PROJECT_DIR$/webTest/page/loginPage.py" />
+        <option value="$PROJECT_DIR$/webTest/testcase/test.py" />
+        <option value="$PROJECT_DIR$/webTest/runner.py" />
+        <option value="$PROJECT_DIR$/../webTest/runner.py" />
+        <option value="$PROJECT_DIR$/runner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="393" />
+    <option name="y" value="82" />
+    <option name="width" value="1025" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baiduTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baiduTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baiduTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baiduTest" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baiduTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\111\app_Test\common" />
+      <recent name="D:\python\test_kybb\common" />
+      <recent name="D:\python\kyb_test\common" />
+      <recent name="D:\python\kyb_test\conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\test_kybb\conf" />
+      <recent name="D:\python\test_kybb\app" />
+      <recent name="D:\python\appium_test\app" />
+      <recent name="D:\python\zendao" />
+      <recent name="D:\python\kyb_test\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runner (1)">
+    <configuration name="base (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webTest/baseView" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webTest/baseView/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loginPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webTest/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webTest/page/loginPage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner (2)" type="PythonConfigurationType" factoryName="Python">
+      <module name="webTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../webTest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../webTest/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webTest/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.Login.testcase_002" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webTest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.Login.testcase_002&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in myunit.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webTest/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/webTest/common/myunit.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runner (2)" />
+      <item itemvalue="Python.runner (1)" />
+      <item itemvalue="Python.base (1)" />
+      <item itemvalue="Python.loginPage" />
+      <item itemvalue="Python.runner" />
+      <item itemvalue="Python tests.Unittests in myunit.py" />
+      <item itemvalue="Python tests.Unittests for test.Login.testcase_002" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python tests.Unittests for test.Login.testcase_002" />
+        <item itemvalue="Python.loginPage" />
+        <item itemvalue="Python.base (1)" />
+        <item itemvalue="Python tests.Unittests in myunit.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511f1317-48f6-4dfa-83d0-36144ebe09c7" name="Default Changelist" comment="" />
+      <created>1536372642338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536372642338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testLoginCase_LoginCase_test001 - 2019.03.26 at 23h 55m 12s.xml">
+      <configuration name="Unittests for testLoginCase.LoginCase.test001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLoginCase_py - 2019.03.26 at 23h 57m 04s.xml">
+      <configuration name="Unittests in testLoginCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLoginCase_py - 2019.03.27 at 00h 00m 26s.xml">
+      <configuration name="Unittests in testLoginCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLoginCase_LoginCase_test002 - 2019.03.27 at 00h 02m 11s.xml">
+      <configuration name="Unittests for testLoginCase.LoginCase.test002" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLoginCase_LoginCase_test003 - 2019.03.27 at 00h 04m 33s.xml">
+      <configuration name="Unittests for testLoginCase.LoginCase.test003" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLoginCase_LoginCase_test002 - 2019.03.27 at 00h 44m 56s.xml">
+      <configuration name="Unittests for testLoginCase.LoginCase.test002" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLoginCase_py - 2019.03.27 at 00h 54m 30s.xml">
+      <configuration name="Unittests in testLoginCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLoginCase_LoginCase_test001 - 2019.03.27 at 00h 57m 29s.xml">
+      <configuration name="Unittests for testLoginCase.LoginCase.test001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_myunit_py - 2019.05.19 at 23h 18m 56s.xml">
+      <configuration name="Unittests in myunit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Login_testcase_002 - 2019.05.19 at 23h 40m 34s.xml">
+      <configuration name="Unittests for test.Login.testcase_002" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20871863" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.4427157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.33097595" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20871863" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.22065064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.33097595" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pytest_sele_zentao/page/login_page.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pytest_sele_zentao/page/add_bug_page.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runner.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function/image.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../zendao/test_case1/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/../zendao/test_case1/test_login.py" />
+    <entry file="file://$PROJECT_DIR$/../zendao/conftest.py" />
+    <entry file="file://$USER_HOME$/Desktop/新建文件夹 (2)/web_test/web_test/WebLogin/Login.py" />
+    <entry file="file://$PROJECT_DIR$/../zendao/test_001.py" />
+    <entry file="file://D:/project/web_test/test_select_bank.py" />
+    <entry file="file://D:/project/web_test/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/../zendao/page/login.py" />
+    <entry file="file://$PROJECT_DIR$/../chandao/base/base1.py" />
+    <entry file="file://$PROJECT_DIR$/../chandao/page/login.py" />
+    <entry file="file://$PROJECT_DIR$/../pytest_sele_zentao/page/login_page.py" />
+    <entry file="file://$PROJECT_DIR$/../zendao/test_case.py" />
+    <entry file="file://$PROJECT_DIR$/sample_test_report.html" />
+    <entry file="file://$USER_HOME$/Desktop/baiduTest/baiduTest/logs/log.py" />
+    <entry file="file://$PROJECT_DIR$/common/excel_shizhan.py" />
+    <entry file="file://$PROJECT_DIR$/common/read_excel.py" />
+    <entry file="file://D:/project/web_test/WebLogin/Login.py" />
+    <entry file="file://$PROJECT_DIR$/function/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/sendEmail.py" />
+    <entry file="file://$PROJECT_DIR$/logs/2019_03_27.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="76" lean-forward="true" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/ddt_test.py" />
+    <entry file="file://$PROJECT_DIR$/report/2019-03-27_08_55_34_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019-05-05_18_33_39_report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/testLoginCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/project/web_test/test_login.py" />
+    <entry file="file://$PROJECT_DIR$/page/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/project/web_test/pages/loginPage.py" />
+    <entry file="file://D:/project/web_test/common/myunit.py" />
+    <entry file="file://D:/project/web_test/testCase/testCaseLogin.py" />
+    <entry file="file://D:/project/web_test/test.py" />
+    <entry file="file://D:/project/web_test/runner.py" />
+    <entry file="file://$USER_HOME$/app_Test/data.yaml" />
+    <entry file="file://$USER_HOME$/app_Test/driver/browser.py" />
+    <entry file="file://$USER_HOME$/app_Test/baseView/base.py" />
+    <entry file="file://$USER_HOME$/app_Test/common/desired_caps.py" />
+    <entry file="file://D:/project/web_test/common/base.py" />
+    <entry file="file://D:/project/web_test/common/driver.py" />
+    <entry file="file://$PROJECT_DIR$/../webTest/common/baseView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/app_Test/runner.py" />
+    <entry file="file://$PROJECT_DIR$/webTest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/common/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/testcase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/baseView/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1640">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/myTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#32#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver/driver1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../webTest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/app_Test/.idea/app_Test.iml" filepath="$USER_HOME$/app_Test/.idea/app_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/baidu.iml" filepath="$PROJECT_DIR$/.idea/baidu.iml" />
+      <module fileurl="file://D:/project/.idea/project.iml" filepath="D:/project/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webTest/.idea/webTest.iml" filepath="$PROJECT_DIR$/../webTest/.idea/webTest.iml" />
+      <module fileurl="file://D:/project/web_test/.idea/web_test.iml" filepath="D:/project/web_test/.idea/web_test.iml" />
+    </modules>
+  </component>
+</project>
